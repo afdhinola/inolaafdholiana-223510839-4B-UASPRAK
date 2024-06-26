@@ -1,0 +1,11 @@
+* {
+    font-family: 'EB Garamond';
+  }
+  
+  ::-webkit-scrollbar {
+    display: none;
+  }
+
+  body {
+    background: whitesmoke;
+  }
